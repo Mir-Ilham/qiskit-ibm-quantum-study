@@ -29,6 +29,8 @@ The repository is organized exactly following the official IBM Quantum Learning 
 - Single Systems
 - Multiple Systems
 - Quantum Circuits
+- Projections and Projective Measurements
+- Limitations on Quantum Information
 - Quantum Entanglement
 
 #### Fundamentals of Quantum Algorithms
@@ -76,10 +78,12 @@ The repository is organized exactly following the official IBM Quantum Learning 
 
 > ```
 > Basics_of_Quantum_Information/
-> ├── 01_Single_Systems.ipynb
-> ├── 02_Multiple_Systems.ipynb
-> ├── 03_Quantum_Circuits.ipynb
-> ├── 04_Quantum_Entanglement.ipynb
+> ├── 1-single-systems.ipynb
+> ├── 2-multiple-systems.ipynb
+> ├── 3-quantum-circuits.ipynb
+> ├── 4-projections-and-projective-measurements.ipynb
+> ├── 5-quantum-information-limitations.ipynb
+> ├── 6-quantum-entanglement.ipynb
 > ```
 
 ## 3. Project Setup and Installation
