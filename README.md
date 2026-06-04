@@ -8,7 +8,7 @@
 
 This repository documents my personal self-study journey through the **IBM Quantum Learning** courses (available at [learning.quantum.ibm.com](https://learning.quantum.ibm.com)).
 
-The goal is **deep conceptual understanding**. For every module that includes Qiskit implementations (which is nearly all of them), I have written my **own code from scratch** — no copy-pasting of the official solutions. Each implementation is accompanied by detailed explanations, mathematical derivations, and personal notes on why certain design choices were made.
+The goal is **deep conceptual understanding**. For every module that includes Qiskit implementations (which is nearly all of them), I have written code implementations from scratch. Each implementation is accompanied by detailed explanations, mathematical derivations, and personal notes.
 
 This repo serves as:
 
