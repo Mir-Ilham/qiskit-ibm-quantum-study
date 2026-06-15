@@ -12,15 +12,14 @@ The goal is **deep conceptual understanding**. For every module that includes Qi
 
 This repo serves as:
 
-- A living portfolio of my quantum computing and quantum machine learning progress
-- A reference for future projects and interviews
-- A transparent record of my learning path for academic or professional purposes
+- A living portfolio of my quantum computing learning progress
+- A reference for future projects
 
 **Note:** All code runs on Qiskit simulators by default. IBM Quantum hardware access (via free IBM Quantum account) is optional but fully supported.
 
 ## 2. Content
 
-The repository is organized exactly following the official IBM Quantum Learning course structure. Each course has its own top-level folder containing Jupyter notebooks (`.ipynb`) for every module, plus any supporting Python scripts.
+The repository is organized exactly following the official IBM Quantum Learning course structure. Each course has its own top-level folder containing Jupyter notebooks (`.ipynb`) for every module.
 
 ### Understanding Quantum Information & Computation
 
@@ -39,40 +38,6 @@ The repository is organized exactly following the official IBM Quantum Learning 
 - Quantum algorithmic foundations
 - Phase estimation and factoring
 - Grover’s algorithm
-
-#### General Formulation of Quantum Information
-
-- Density matrices
-- Quantum channels
-- General measurements
-- Purifications and fidelity
-
-#### Foundations of Quantum Error Correction
-
-- Correcting quantum errors
-- The stabilizer formalism
-- Quantum code constructions
-- Fault-tolerant quantum computing
-
-### Quantum Machine Learning (QML)
-
-#### Quantum Machine Learning
-
-- Introduction
-- Classical machine learning review
-- Data encoding
-- Quantum Kernels
-- QVCs and QNNs
-
-#### Variational Algorithm Design
-
-- Variational algorithms
-- Reference states
-- Ansaetze and variational forms
-- Cost functions
-- Optimization loops
-- Instances and extensions
-- Examples and applications
 
 ### Folder Structure Example (inside each course folder):
 
@@ -136,8 +101,7 @@ The repository is organized exactly following the official IBM Quantum Learning 
   - Theory recap (Concise)
   - Mathematical background
   - Qiskit implementations
-  - Experiments / parameter sweeps
-  - Personal observations and "gotchas"
+  - Personal observations
 
 Feel free to explore, fork, or use any part of the code in your own projects (MIT license).
 
